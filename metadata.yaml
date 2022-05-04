@@ -1,0 +1,40 @@
+_repo: The-Emeryville-Shellmound_67841
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Uhle, Max
+    aliases:
+    - Uhle, Máximo
+    - Uhle, Maximo
+    - Uhle, Friedrich Max
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '54486'
+    url: http://www.gutenberg.org/2009/agents/54486
+    wikipedia: https://en.wikipedia.org/wiki/Max_Uhle
+description: ''
+gutenberg_issued: '2022-04-15'
+identifiers:
+  gutenberg: '67841'
+  lccn: 08025733
+language: en
+pgterms:marc904: https://archive.org/details/emeryvilleshellm00uhle/mode/2up
+pgterms:marc905: 20201025121331uhle
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Charlene Taylor, Pat McCoy and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The University Press,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- California -- Emeryville -- Antiquities'
+- !lcsh 'Emeryville Site (Calif.)'
+- !lcsh 'Kitchen-middens -- California -- San Francisco Bay Area'
+- !lcsh 'Emeryville (Calif.) -- Antiquities'
+- GITenberg
+title: The Emeryville Shellmound
+url: http://www.gutenberg.org/ebooks/67841
